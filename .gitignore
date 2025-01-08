@@ -1,0 +1,39 @@
+# IntelliJ IDEA specific files
+/.idea/
+*.iml
+
+# Build output directories
+/out/
+/build/
+/target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Java files
+*.class
+
+# JAR/WAR files
+*.jar
+*.war
+*.ear
+
+# User-specific files
+*.swp
+*.swo
+*~
+
+# Input and output files
+input.txt
+output.txt
+
+# Other unwanted files
+*.bak
+*.old
+*.orig
